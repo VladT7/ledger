@@ -1,0 +1,29 @@
+{
+  "name": "ledger",
+  "version": "1.0.0",
+  "description": "A credits-and-ledger service in Node + TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladT7/ledger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VladT7/ledger/issues"
+  },
+  "homepage": "https://github.com/VladT7/ledger#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "eslint": "^10.10.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
